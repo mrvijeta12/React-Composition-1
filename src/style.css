@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.model-overlay{
+    background-color: #0af6ea;
+    width: fit-content;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 4px solid grey;
+    border-radius: 10px;
+}
+.showModel{
+    margin: 20px 40px;
+}
+
+.showModel,.model-close{
+    outline: none;
+    background-color: rgb(106, 3, 3);
+    color: white;
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+   
+}
+
+.model-p{
+  margin-top: 20px;
+}
